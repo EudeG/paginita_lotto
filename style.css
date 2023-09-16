@@ -148,7 +148,7 @@ body {
   padding: 5vh;
   height: 45vh;
   display: grid;
-  grid-template-columns:  1fr; /* Divide en dos columnas */
+  grid-template-columns:  1fr; /* Divide en columnas */
   grid-template-rows: 1fr 1fr 1fr ;
   grid-template-areas:
       "textoDescriocion"
